@@ -1,0 +1,5 @@
+:root { font-family: Inter, ui-sans-serif, system-ui, sans-serif; color: #e6edf8; background: #08111f; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; background: radial-gradient(circle at 15% 0%, #123c52 0, transparent 32rem), #08111f; }
+button, input, select { font: inherit; }
+button { cursor: pointer; }
